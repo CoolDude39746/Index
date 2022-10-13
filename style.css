@@ -1,0 +1,27 @@
+body {
+    font-family: monospace;
+    color: black;
+    font-size: large;
+    background-color: lightskyblue;
+}
+
+button {
+    font-family: monospace;
+    font-size: large;
+    color: black;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+audio {
+    width: 500px;
+}
+
+video {
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-color: black;;
+}
